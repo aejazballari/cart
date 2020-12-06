@@ -35,13 +35,13 @@ button {
   padding: 5px;
   font-size: 15px;
   font-weight: bold;
-  width: 101px;
+  width: 48%;
 }
 
 .center div {
   margin-bottom: 20px;
-  display: flex;
-  justify-content: space-evenly;
+  /* display: flex;
+  justify-content: space-evenly; */
 }
 
 .container div {
