@@ -51,3 +51,7 @@ p {
   padding: 4px 0px;
   text-transform: capitalize;
 }
+
+.para:hover {
+  cursor: pointer;
+}
